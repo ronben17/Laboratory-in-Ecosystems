@@ -1,0 +1,1098 @@
+[
+    {
+        "_id": "682e4294c419c275535be004",
+        "humidity": {
+            "unit": "%",
+            "value": 79.1
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 487
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.6
+        },
+        "timestamp": "2025-05-21T21:15:11.102000",
+        "local_timestamp": "2025-05-22 00:15:11",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747862116/zs6hp2qbnslorrbaiabm.jpg",
+        "Current Status Summary": "The basil plant is in generally good condition, though high humidity and recent pruning or stem disturbance could impact its health if not managed.",
+        "Expert Observation": "The basil plant appears mostly healthy with full, green leaves that have a good structure. There are no visible signs of yellowing, browning, or pest damage. However, the central stem area shows signs of recent pruning or stem damage, which might stress the plant temporarily. Leaf density suggests slight overcrowding, which could reduce airflow and encourage humidity-related issues.",
+        "Health Score": {
+            "score": "7",
+            "summary": "Strong overall health, but elevated humidity and signs of pruning stress slightly reduce the score."
+        },
+        "Recommendation": "Increase air circulation around the plant to mitigate high humidity—consider spacing out nearby plants and using a fan if indoors. Monitor for early signs of mildew or rot due to elevated moisture levels. Ensure pruning cuts are clean and use sanitized tools to avoid introducing pathogens. If possible, slightly lower the ambient humidity.",
+        "Sensor Analysis": "Temperature is within the ideal range (22.7°C is comfortably between 20–30°C). Humidity at 78.9% is significantly above the ideal range (40–60%), which increases the risk of fungal diseases. Soil moisture at 39% is also within the optimal range (30–60%)."
+    },
+    {
+        "_id": "682ebfd8278c6964b258a2d4",
+        "humidity": {
+            "unit": "%",
+            "value": 82.0
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.5
+        },
+        "timestamp": "2025-05-22T06:09:38.829000",
+        "local_timestamp": "2025-05-22 09:09:38",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747894183/uayqhaujsqyhmtrmxtnw.jpg",
+        "Current Status Summary": "The plant is generally healthy but experiencing early stress, likely related to high humidity and possible overcrowding.",
+        "Expert Observation": "The basil plant has mostly healthy green leaves, but some show slight curling and mild discoloration, indicating early signs of stress. No major signs of pest damage, fungal spots, or wilting are evident. The growth appears somewhat dense, which could potentially limit airflow and increase humidity-related issues.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The plant is in good health overall, but elevated humidity and minor leaf curling suggest early environmental stress."
+        },
+        "Recommendation": "Increase airflow around the plant by thinning out the densest areas or slightly spacing the plants if possible. Ensure the area is well-ventilated to reduce ambient humidity. Continue monitoring soil moisture and avoid overwatering to prevent compounding moisture stress.",
+        "Sensor Analysis": "Temperature at 22.5°C is well within the ideal range for basil (20–30°C). However, the relative humidity is elevated at 82.0%, which is significantly above the optimal 40–60% range and could promote fungal growth if sustained. Soil moisture is at 39%, which falls within the ideal range of 30–60%, indicating good hydration."
+    },
+    {
+        "_id": "682f3c2b3dc453a28052e2d2",
+        "humidity": {
+            "unit": "%",
+            "value": 77.2
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 487
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 24.9
+        },
+        "timestamp": "2025-05-22T15:00:02.076000",
+        "local_timestamp": "2025-05-22 18:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747926007/kyjuvdgkbdcvpcv3kozz.jpg",
+        "Current Status Summary": "The basil plant is mostly healthy but beginning to show minor signs of stress likely due to excessive humidity and possible overcrowding.",
+        "Expert Observation": "The basil plant appears generally healthy but shows some early signs of stress. Most leaves are green and full, but there are a few curled and slightly wilted leaves, particularly on the left side. There are also darkened or blackened leaf tips, suggesting localized damage possibly from dehydration or fungal infection. No clear signs of pests are visible, but crowding is evident, which could reduce air circulation and contribute to humidity-related issues.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The plant is overall healthy but shows early signs of stress likely linked to high humidity and overcrowding."
+        },
+        "Recommendation": "Increase air circulation around the plant to reduce humidity levels—consider spacing the basil more or using a small fan if indoors. Remove any blackened or dead leaves to prevent fungal spread. Monitor for further signs of rot or mildew and reduce watering slightly if the high humidity persists.",
+        "Sensor Analysis": "Air temperature is within the ideal range at 25.2°C. Relative humidity is high at 76.7%, which exceeds the optimal range (40–60%) and could promote fungal growth. Soil moisture is at 39%, which is within the ideal 30–60% range, indicating proper hydration."
+    },
+    {
+        "_id": "682fe4ea8e3ca544d43f8213",
+        "humidity": {
+            "unit": "%",
+            "value": 86.3
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.1
+        },
+        "timestamp": "2025-05-23T03:00:02.260000",
+        "local_timestamp": "2025-05-23 06:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747969207/p7bjula58vvnlc1qcnz5.jpg",
+        "Current Status Summary": "The basil plant is moderately healthy but shows early signs of stress due to excessive humidity and possibly crowding or airflow issues.",
+        "Expert Observation": "The basil plant shows signs of mild stress. Most leaves are a healthy green, but some are slightly drooping and curling, especially toward the lower parts of the plant. There is minor browning or distortion on a few leaf edges, possibly indicating overwatering or humidity-related stress. No pest damage or fungal spots are visible, but the overall appearance lacks the turgid, upright structure of fully healthy basil.",
+        "Health Score": {
+            "score": "6",
+            "summary": "Moderately healthy with slight leaf stress and high humidity creating potential for future issues."
+        },
+        "Recommendation": "Improve air circulation around the plant to reduce humidity stress—consider relocating to a better-ventilated area or using a fan nearby. Avoid misting and ensure the plant is not overcrowded in its container. Monitor for any fungal development and prune back dense foliage to enhance airflow.",
+        "Sensor Analysis": "Temperature is within the ideal range at 22.0°C. Humidity is high at 86.1%, which exceeds the ideal range of 40–60% for basil and may contribute to leaf stress or fungal risk. Soil moisture is 39%, which falls within the ideal range of 30–60%, indicating appropriate watering."
+    },
+    {
+        "_id": "6831700c7298bab2c351acb6",
+        "humidity": {
+            "unit": "%",
+            "value": 77.2
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 24.7
+        },
+        "timestamp": "2025-05-24T07:06:00.481000",
+        "local_timestamp": "2025-05-24 10:06:00",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1748070365/nxuhkaubccbkr5a2rxsh.jpg",
+        "Current Status Summary": "The basil plant is moderately healthy but showing early signs of environmental stress, particularly from excessive humidity and minor leaf damage.",
+        "Expert Observation": "The basil plant appears mostly healthy with vibrant green foliage, but there are signs of slight stress. Some leaves, particularly on the left side, show signs of curling and darkening or browning at the edges, possibly indicating localized damage or early disease/pest presence. Overall leaf density is good, though a few leaves seem slightly wilted.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The plant is generally healthy but is experiencing minor leaf stress and elevated humidity that could lead to future problems if not managed."
+        },
+        "Recommendation": "Improve air circulation around the plant to reduce humidity levels and prevent fungal issues—this could include spacing plants out or using a small fan if indoors. Monitor for pests or signs of fungal infection (e.g., fuzzy growth or worsening spots). Remove any damaged or browning leaves to prevent spread and encourage healthy growth.",
+        "Sensor Analysis": "Temperature at 24.6°C is within the ideal range (20–30°C). Humidity is high at 77.2%, which exceeds the optimal range (40–60%) and could encourage fungal growth or mildew if it persists. Soil moisture is at 39%, which is within the ideal 30–60% range—sufficiently moist but not waterlogged."
+    },
+    {
+        "_id": "6831d230f8acd32fceb531ba",
+        "humidity": {
+            "unit": "%",
+            "value": 56.0
+        },
+        "soil": {
+            "percent": 56,
+            "raw": 430
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 28.3
+        },
+        "timestamp": "2025-05-17T16:41:08.843000",
+        "local_timestamp": "2025-05-17 19:41:08",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747500072/msjzwm4vh4o1lfmsbn6o.jpg",
+        "Current Status Summary": "Your basil plant is currently in good health based on sensor readings and the limited visual inspection available from the dark photo.",
+        "Expert Observation": "The image is quite dark, making it difficult to observe fine details such as leaf color variations, spotting, or subtle pest damage. However, from what is visible, the basil leaves appear generally healthy with a deep green color and upright posture, suggesting they are well-hydrated and not wilting. There is no apparent overcrowding, although more detail would help confirm this.",
+        "Health Score": {
+            "score": "8",
+            "summary": "All sensor metrics are within the ideal range, and the plant appears healthy, though a better-lit image is needed for a complete assessment."
+        },
+        "Recommendation": "Retake the photo in better lighting conditions to allow a more thorough leaf health analysis. Maintain current environmental conditions, and ensure good air circulation to prevent potential fungal issues.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature is 28.3°C, which is within the ideal range for basil growth (20–30°C).",
+                "status": "within range",
+                "tip": "Maintain current temperature conditions, but ensure it doesn't consistently exceed 30°C to avoid heat stress."
+            },
+            "Relative Humidity": {
+                "interpretation": "The humidity level is 56.0%, which supports healthy transpiration and leaf health in basil.",
+                "status": "within range",
+                "tip": "Continue to monitor humidity to ensure it stays between 40–60%. Consider increasing air circulation if you notice fungal growth or mildew."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 56% is optimal—moist but not overly saturated.",
+                "status": "within range",
+                "tip": "Keep watering consistent. Only water when the soil begins to dry slightly to maintain moisture between 30–60%."
+            }
+        }
+    },
+    {
+        "_id": "6831d25cf8acd32fceb531bb",
+        "humidity": {
+            "unit": "%",
+            "value": 56.4
+        },
+        "soil": {
+            "percent": 56,
+            "raw": 430
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 28.2
+        },
+        "timestamp": "2025-05-17T17:00:01.701000",
+        "local_timestamp": "2025-05-17 20:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747501205/o9qudwqpqr4tg1pslbag.jpg",
+        "Current Status Summary": "Your basil plant is in excellent condition. Environmental conditions are within optimal ranges, and the plant shows no signs of disease or stress. Mild overcrowding could be addressed with selective pruning to promote airflow and reduce future disease risk.",
+        "Expert Observation": "The basil plant appears generally healthy, with lush green leaves and no visible signs of yellowing, browning, or pest damage. Leaf texture and color indicate good hydration and nutrient levels. There is moderate leaf crowding, which could benefit from some light pruning to encourage airflow and reduce the risk of fungal issues.",
+        "Health Score": {
+            "score": "9",
+            "summary": "The plant is thriving with ideal environmental conditions and strong, healthy foliage; a minor deduction is due to slight overcrowding."
+        },
+        "Recommendation": "Maintain current care practices, but consider thinning out the densest sections of foliage. Pruning older or overlapping leaves can encourage new growth and improve air circulation. Ensure the plant receives at least 6 hours of bright, indirect sunlight daily.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The air temperature is optimal for basil growth, supporting active photosynthesis and metabolism.",
+                "status": "within range",
+                "tip": "Maintain this temperature range (20–30 °C) with good airflow to prevent overheating or fungal issues."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity is appropriate for basil, helping prevent leaf drying without promoting fungal growth.",
+                "status": "within range",
+                "tip": "Continue monitoring. Avoid excessive misting, especially if airflow is limited."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture is at the upper end of the ideal range—moist but not oversaturated.",
+                "status": "within range",
+                "tip": "Water only when the top inch of soil feels dry to the touch. Be cautious of overwatering, particularly in denser planters."
+            }
+        }
+    },
+    {
+        "_id": "6831d288f8acd32fceb531bc",
+        "humidity": {
+            "unit": "%",
+            "value": 89.1
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 23.6
+        },
+        "timestamp": "2025-05-18T05:00:01.672000",
+        "local_timestamp": "2025-05-18 08:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747544406/citdxw84upx4azwscanj.jpg",
+        "Current Status Summary": "The basil plant is largely healthy but experiencing early symptoms of high humidity stress and minor pest damage. Environmental conditions need adjustment to prevent fungal issues and ensure robust growth.",
+        "Expert Observation": "The basil plant appears generally healthy with lush green leaves, but several signs indicate early stress: (1) some leaves show minor browning at the edges, likely a result of excess humidity or moisture retention; (2) slight leaf curling and softness may indicate oversaturation; (3) minor pest damage is visible on the left side, with a few small holes that suggest chewing insects like caterpillars or beetles; (4) the plant looks somewhat crowded, which may reduce airflow and exacerbate humidity-related issues.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The basil is in good shape overall, but high humidity and early pest signs require attention to prevent decline."
+        },
+        "Recommendation": "Improve ventilation around the plant to lower humidity, and inspect leaves (especially undersides) for pests—remove them manually or use a mild insecticidal soap. Consider thinning out some leaves to enhance airflow and reduce overcrowding. Avoid overwatering and ensure good drainage to prevent moisture buildup.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "At 23.6°C, the temperature is comfortably within basil’s ideal growing range.",
+                "status": "within range",
+                "tip": "Maintain current temperature levels and avoid cold drafts or direct heat sources."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 89.1% is well above basil’s ideal range (40–60%), creating conditions that encourage fungal issues and soft, overly moist leaves.",
+                "status": "too high",
+                "tip": "Increase airflow around the plant using a fan or open window to help reduce ambient humidity. Avoid misting the plant."
+            },
+            "Soil Moisture": {
+                "interpretation": "At 39%, soil moisture is within the ideal range of 30–60% for basil.",
+                "status": "within range",
+                "tip": "Continue monitoring and water only when the top layer of soil feels slightly dry to the touch."
+            }
+        }
+    },
+    {
+        "_id": "6831d2b4f8acd32fceb531bd",
+        "humidity": {
+            "unit": "%",
+            "value": 85.6
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 487
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 23.9
+        },
+        "timestamp": "2025-05-18T09:00:02.238000",
+        "local_timestamp": "2025-05-18 12:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747558807/wokhxnfeoaxfzkafkhfl.jpg",
+        "Current Status Summary": "Your basil plant is mostly healthy, with ideal temperature and soil moisture. However, high humidity and minor pest activity may be causing slight leaf droop and blemishes. Dense foliage may be limiting airflow.",
+        "Expert Observation": "The basil plant appears generally healthy with a rich green color, indicating good chlorophyll production. However, there are signs of minor stress: a few leaves show light drooping and slight browning on the edges, suggesting early signs of overhydration or potential humidity stress. There are also small holes visible on some leaves, which are indicative of minor pest damage—likely from chewing insects such as caterpillars or beetles. The foliage is dense, possibly contributing to airflow restriction and excessive humidity around the leaves.",
+        "Health Score": {
+            "score": "7.5",
+            "summary": "The plant is in good condition with healthy growth but shows early signs of humidity stress and minor pest damage."
+        },
+        "Recommendation": "Improve airflow by trimming any excessively crowded stems, and consider spacing plants more widely. Inspect the plant closely for pests and remove any you find manually or with a gentle insecticidal soap. Avoid misting or overwatering, especially under high humidity. Check for hidden insects under leaves.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature is ideal for basil growth and supports healthy metabolic activity.",
+                "status": "within range",
+                "tip": "Maintain this temperature range, ensuring the plant receives plenty of light while avoiding cold drafts or overheating."
+            },
+            "Relative Humidity": {
+                "interpretation": "Excessive humidity (85.6%) can create an environment conducive to fungal diseases and reduce transpiration efficiency.",
+                "status": "too high",
+                "tip": "Improve air circulation by gently thinning out crowded stems and possibly using a small fan nearby if indoors. Avoid overhead watering."
+            },
+            "Soil Moisture": {
+                "interpretation": "At 39%, the soil moisture is adequate and supports healthy basil growth without risk of root rot.",
+                "status": "within range",
+                "tip": "Continue to monitor moisture regularly. Water when the top inch of soil feels slightly dry, not soggy."
+            }
+        }
+    },
+    {
+        "_id": "6831d2e1f8acd32fceb531be",
+        "humidity": {
+            "unit": "%",
+            "value": 79.5
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 487
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 24.8
+        },
+        "timestamp": "2025-05-18T13:00:02.164000",
+        "local_timestamp": "2025-05-18 16:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747573207/ycbjmfhgipa0wqehw3mf.jpg",
+        "Current Status Summary": "The basil plant is generally healthy in terms of color and moisture, but the visible wilting and slight leaf curling suggest it is under mild stress likely due to excessive humidity and possibly limited airflow.",
+        "Expert Observation": "The basil plant exhibits moderate wilting and slight curling of leaves, particularly on the left side of the image. Leaf color remains a healthy green, and no signs of pests, fungal spots, or significant blemishes are visible. This suggests possible heat or humidity stress rather than disease or infestation. The plant density appears high, which might restrict airflow and contribute to moisture-related stress.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The basil plant is in good condition but experiencing mild humidity stress, which, if unaddressed, could lead to health decline."
+        },
+        "Recommendation": "Improve ventilation around the basil by thinning out dense growth and using a small fan if indoors. Reduce ambient humidity if possible and ensure the plant is not enclosed. Monitor for signs of fungal issues due to persistent high humidity, and avoid overhead watering. Consider harvesting some leaves to reduce transpiration load and crowding.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature is ideal for basil growth, supporting proper metabolic and photosynthetic processes.",
+                "status": "within range",
+                "tip": "Maintain this temperature range by ensuring good ventilation and protecting the plant from sudden temperature drops or direct afternoon sun."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 79.5% is well above the optimal range. Excessive humidity can lead to moisture stress, promote fungal diseases, and reduce transpiration efficiency.",
+                "status": "too high",
+                "tip": "Improve airflow around the plant by spacing it better or using a small fan. Avoid misting and ensure the area is not overly enclosed."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 39% is in the ideal range—moist but not soggy—which supports healthy root function.",
+                "status": "within range",
+                "tip": "Continue monitoring soil moisture regularly. Water when the top inch of soil feels dry, avoiding overwatering especially in high humidity conditions."
+            }
+        }
+    },
+    {
+        "_id": "6831d339f8acd32fceb531c0",
+        "humidity": {
+            "unit": "%",
+            "value": 82.2
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 21.8
+        },
+        "timestamp": "2025-05-19T05:00:02.089000",
+        "local_timestamp": "2025-05-19 08:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747630807/n1sgjuuc3t46wthsxj9p.jpg",
+        "Current Status Summary": "Your basil plant is generally healthy, but some early signs of stress—mild leaf curling and wilting—could be due to high humidity and limited airflow from slight overcrowding.",
+        "Expert Observation": "The basil plant appears mostly healthy with vibrant green leaves. However, there are signs of mild wilting and leaf curling on some stems, particularly on the left side of the image. There is no visible pest damage or fungal spotting. Overcrowding is slightly evident, which may be contributing to airflow issues and mild wilting.",
+        "Health Score": {
+            "score": "8",
+            "summary": "The plant is in good condition overall with slight wilting likely due to high humidity and crowding."
+        },
+        "Recommendation": "Improve air circulation around the basil to combat excess humidity. Consider gently pruning or spacing out plants to reduce overcrowding. Monitor for any further signs of fungal development or persistent wilting. Maintain current watering practices.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature at 21.8°C is within the optimal range for basil growth.",
+                "status": "within range",
+                "tip": "Maintain current temperature conditions; ensure the plant continues to receive warmth, especially if grown indoors."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 82.2% exceeds basil's ideal range, potentially promoting fungal issues and poor transpiration.",
+                "status": "too high",
+                "tip": "Increase air circulation around the plant using a fan or spacing plants out. Avoid overhead watering."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 39% is within the recommended range, indicating proper hydration.",
+                "status": "within range",
+                "tip": "Continue monitoring moisture and water when the topsoil begins to dry, keeping the soil moist but not soggy."
+            }
+        }
+    },
+    {
+        "_id": "6831d365f8acd32fceb531c1",
+        "humidity": {
+            "unit": "%",
+            "value": 78.0
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.3
+        },
+        "timestamp": "2025-05-19T09:00:02.249000",
+        "local_timestamp": "2025-05-19 12:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747645207/jjfwz8pez0tlof6fzoqr.jpg",
+        "Current Status Summary": "The basil plant is in generally good health, benefiting from proper temperature and soil moisture. However, elevated humidity may be causing slight drooping and should be addressed to prevent long-term issues.",
+        "Expert Observation": "The basil plant appears mostly healthy with a rich green color, indicating good chlorophyll levels. However, several leaves show signs of mild drooping and slight curling, suggesting possible overhydration or high humidity stress. There are no visible signs of pests, leaf spots, or fungal growth, and the plant is not overcrowded.",
+        "Health Score": {
+            "score": "8",
+            "summary": "The plant is healthy with good color and moisture levels, but elevated humidity is beginning to cause mild stress."
+        },
+        "Recommendation": "Improve ventilation around the plant to lower humidity levels, and monitor leaf condition closely over the next few days. Avoid misting the leaves or crowding the plant with others. Consider spacing pots slightly apart to enhance airflow.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature is ideal for basil growth, supporting healthy metabolic and photosynthetic activity.",
+                "status": "within range",
+                "tip": "Maintain this temperature range by avoiding exposure to cold drafts or excessive heat from nearby surfaces."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity above 60% can contribute to fungal issues and reduce transpiration efficiency, potentially leading to droopy leaves.",
+                "status": "too high",
+                "tip": "Improve air circulation around the plant, and avoid watering late in the day to reduce excess moisture retention."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture is at a healthy level, indicating the plant is neither overwatered nor too dry.",
+                "status": "within range",
+                "tip": "Continue to water when the top inch of soil feels dry to the touch; ensure drainage holes are functioning to prevent root rot."
+            }
+        }
+    },
+    {
+        "_id": "6831d392f8acd32fceb531c2",
+        "humidity": {
+            "unit": "%",
+            "value": 74.3
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 23.2
+        },
+        "timestamp": "2025-05-19T13:00:02.320000",
+        "local_timestamp": "2025-05-19 16:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747659607/lchoui7sn8cmcyh8x7cj.jpg",
+        "Current Status Summary": "The basil plant is in overall good health with proper temperature and soil moisture, though slightly excessive humidity and minor leaf damage or curling may indicate early signs of stress or pest activity.",
+        "Expert Observation": "The basil plant appears mostly healthy with broad, green leaves. However, there are a few concerns: some leaves appear slightly wilted or curling, and there's a visible hole or pest damage on one of the central leaves. The lighting is a bit harsh, which makes it difficult to assess finer details, but overall there are no signs of yellowing or fungal spots.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The plant is mostly healthy but shows minor signs of stress from pests and high humidity."
+        },
+        "Recommendation": "Improve air circulation to reduce humidity-related risks and inspect the undersides of leaves and stems for pests. Prune any damaged leaves and monitor regularly for further signs of pests or disease. Consider using a fan or opening windows if growing indoors to reduce humidity.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature of 23.2°C is well within basil’s ideal range (20–30°C), supporting healthy growth.",
+                "status": "within range",
+                "tip": "Maintain this temperature range, avoiding sudden drops especially at night."
+            },
+            "Relative Humidity": {
+                "interpretation": "A relative humidity of 74.3% exceeds basil's preferred range (40–60%). This could promote fungal growth or mildew, especially in low airflow environments.",
+                "status": "too high",
+                "tip": "Improve air circulation around the plant or consider moving it to a slightly drier spot if indoors."
+            },
+            "Soil Moisture": {
+                "interpretation": "The soil moisture level at 39% is within the optimal range (30–60%), indicating the plant is well-watered without being soggy.",
+                "status": "within range",
+                "tip": "Continue checking regularly and water when soil feels just slightly dry to the touch."
+            }
+        }
+    },
+    {
+        "_id": "6831d3eaf8acd32fceb531c4",
+        "humidity": {
+            "unit": "%",
+            "value": 72.4
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.4
+        },
+        "timestamp": "2025-05-20T05:00:01.589000",
+        "local_timestamp": "2025-05-20 08:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747717206/mlvyuxhvyoueoq0e9plu.jpg",
+        "Current Status Summary": "The basil is in generally good health but shows early signs of crowding stress and potential high humidity effects. The temperature and soil moisture are optimal, but the humidity is slightly elevated.",
+        "Expert Observation": "The basil plant shows signs of mild wilting and slight leaf curling, which can be early signs of stress. Leaf color is predominantly healthy green with no significant yellowing, browning, or pest damage. However, the plant appears somewhat crowded, which may hinder airflow and light penetration.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The plant is mostly healthy, with good moisture and temperature conditions, but high humidity and crowding present moderate risks that need attention."
+        },
+        "Recommendation": "Thin out some of the crowded stems to promote better airflow and light exposure. Consider gently pruning to encourage bushier, healthier growth. Improve humidity control by ventilating the area or relocating the plant if it's in a very enclosed space.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The air temperature is ideal for basil growth and does not pose any stress.",
+                "status": "within range",
+                "tip": "Maintain temperature in the 20–30°C range by ensuring the plant is not exposed to drafts or direct heat sources."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 72.4% exceeds the optimal range for basil, which may encourage fungal growth or leaf mildew.",
+                "status": "too high",
+                "tip": "Improve air circulation by spacing plants further apart or using a small fan. Avoid misting and reduce excess water in the growing environment."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 39% is within the ideal range, providing adequate hydration without risking root rot.",
+                "status": "within range",
+                "tip": "Continue monitoring moisture to keep it between 30–60%, watering when the top inch of soil feels dry."
+            }
+        }
+    },
+    {
+        "_id": "6831d416f8acd32fceb531c5",
+        "humidity": {
+            "unit": "%",
+            "value": 75.5
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 487
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 21.9
+        },
+        "timestamp": "2025-05-20T09:00:01.732000",
+        "local_timestamp": "2025-05-20 12:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747731606/fbdg1i9tfpkhb7k22ajk.jpg",
+        "Current Status Summary": "The basil plant is generally healthy but showing early signs of stress likely due to high humidity. Leaf color and shape are mostly good, though a few leaves show slight yellowing and curling.",
+        "Expert Observation": "The basil plant appears mostly healthy with full, vibrant green leaves, but there are signs of mild stress. Some leaves show faint yellowing and slight curling, which may indicate minor overhydration or excess humidity. There are no signs of pest damage, wilting, or fungal growth visible in the image.",
+        "Health Score": {
+            "score": "8",
+            "summary": "Overall health is strong, with minor issues caused by high humidity beginning to show on some leaves."
+        },
+        "Recommendation": "Reduce ambient humidity through better airflow and monitor for any development of mold or mildew. Continue maintaining current soil moisture and temperature levels. Prune any discolored leaves to encourage new healthy growth.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The air temperature of 21.9°C is well within the optimal range for basil growth.",
+                "status": "within range",
+                "tip": "Maintain this temperature by avoiding exposure to cold drafts or direct heat sources."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 75.5% exceeds basil’s preferred range. Prolonged high humidity can encourage fungal diseases and may cause slight leaf yellowing or curling.",
+                "status": "too high",
+                "tip": "Improve air circulation around the plant. Use a small fan or slightly open a window if indoors to bring humidity down closer to 60%."
+            },
+            "Soil Moisture": {
+                "interpretation": "At 39%, soil moisture is within the ideal range for basil. The plant is receiving adequate water.",
+                "status": "within range",
+                "tip": "Continue checking moisture regularly. Water when the top inch of soil feels dry to the touch to avoid overwatering."
+            }
+        }
+    },
+    {
+        "_id": "6831d442f8acd32fceb531c6",
+        "humidity": {
+            "unit": "%",
+            "value": 70.9
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.8
+        },
+        "timestamp": "2025-05-20T13:00:02.061000",
+        "local_timestamp": "2025-05-20 16:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747746007/y4hdieqkuq2ytpl4ztku.jpg",
+        "Current Status Summary": "The basil plant is mostly healthy with good leaf color and adequate soil moisture. Slight signs of leaf curling and droop could be linked to elevated humidity levels.",
+        "Expert Observation": "The basil plant appears generally healthy, with lush green leaves and no obvious signs of disease or pest damage. However, some leaves are slightly curled and there is a slight droop on the left side, which could be an early sign of heat or humidity stress. The image is slightly overexposed, making detailed inspection difficult in the upper left quadrant, but overall, leaf color is vibrant and consistent.",
+        "Health Score": {
+            "score": "8",
+            "summary": "The plant is vibrant and well-hydrated with only minor signs of environmental stress due to high humidity."
+        },
+        "Recommendation": "Improve ventilation around the basil plant to combat high humidity and prevent potential fungal issues. Regularly inspect for mold or mildew on leaves and prune any overly dense sections to enhance airflow. Keep monitoring soil and temperature conditions as they are currently favorable.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The current temperature of 22.8°C is ideal for basil growth and supports strong photosynthesis and healthy development.",
+                "status": "within range",
+                "tip": "Maintain this temperature by ensuring the plant is shaded during peak heat and receives adequate airflow if indoors."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 70.9% exceeds basil’s optimal range and may encourage fungal growth or mildew, especially in dense foliage.",
+                "status": "too high",
+                "tip": "Improve air circulation around the plant. If indoors, consider using a dehumidifier or spacing plants out more to reduce trapped moisture."
+            },
+            "Soil Moisture": {
+                "interpretation": "At 39%, soil moisture is in the ideal zone—moist but not soggy—supporting healthy root function.",
+                "status": "within range",
+                "tip": "Continue monitoring soil moisture. Water when the top inch of soil starts to feel dry, avoiding oversaturation."
+            }
+        }
+    },
+    {
+        "_id": "6831d49af8acd32fceb531c8",
+        "humidity": {
+            "unit": "%",
+            "value": 71.5
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 487
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 21.8
+        },
+        "timestamp": "2025-05-21T05:00:02.013000",
+        "local_timestamp": "2025-05-21 08:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747803607/zjm4kjubvgh2wogqqpn1.jpg",
+        "Current Status Summary": "The basil plant is generally healthy with vibrant leaves and adequate soil moisture. Slight over-crowding and high ambient humidity pose mild risks for future issues if not addressed.",
+        "Expert Observation": "The basil plant appears healthy overall with lush, green foliage. However, there is slight crowding of leaves, and some leaves on the left side look mildly curled or compressed, possibly indicating slight stress or competition for light and air. No visible signs of pest damage, yellowing, or fungal spots are present.",
+        "Health Score": {
+            "score": "8",
+            "summary": "The plant is healthy and well-hydrated, but elevated humidity and mild leaf crowding slightly reduce its ideal condition."
+        },
+        "Recommendation": "Thin out some of the denser leaf clusters to improve airflow. Monitor humidity closely and take action to reduce it slightly. Keep an eye on leaf shape and firmness as indicators of ongoing stress. Ensure the plant is getting enough light to prevent legginess or further crowding.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The current temperature of 21.8°C is within the ideal range for basil growth (20–30°C).",
+                "status": "within range",
+                "tip": "Maintain this temperature range by avoiding cold drafts or direct exposure to intense midday heat."
+            },
+            "Relative Humidity": {
+                "interpretation": "A relative humidity of 71.5% is above the ideal 40–60% range, which may encourage fungal growth or reduce transpiration efficiency.",
+                "status": "too high",
+                "tip": "Improve air circulation around the plant or consider using a dehumidifier if grown indoors. Avoid overwatering, especially in high humidity."
+            },
+            "Soil Moisture": {
+                "interpretation": "The soil moisture at 39% falls comfortably within the optimal 30–60% range.",
+                "status": "within range",
+                "tip": "Continue monitoring soil moisture to prevent it from becoming soggy, especially under high humidity."
+            }
+        }
+    },
+    {
+        "_id": "6831d4c6f8acd32fceb531c9",
+        "humidity": {
+            "unit": "%",
+            "value": 72.3
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 487
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 21.8
+        },
+        "timestamp": "2025-05-21T09:00:02.416000",
+        "local_timestamp": "2025-05-21 12:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747818007/qjwdburtmgomjzd5mn3h.jpg",
+        "Current Status Summary": "The basil plant is mostly healthy but beginning to show mild signs of stress, likely due to excessive humidity. Temperature and soil moisture are well balanced for continued growth.",
+        "Expert Observation": "The basil plant appears generally healthy, but there are early signs of stress. Some leaves show faint yellowing and slight mottling, particularly on the right side of the image. Leaf edges are mildly curled in areas, which may suggest either environmental stress or early nutrient imbalance. There is no visible pest damage, severe wilting, or fungal spotting, and leaf density remains good overall.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The basil is in decent health with minor yellowing and elevated humidity as the main concerns."
+        },
+        "Recommendation": "Focus on improving air circulation to reduce humidity levels. Monitor the yellowing pattern—if it worsens, consider testing for nutrient deficiencies, especially magnesium or nitrogen. Regularly inspect the undersides of leaves for early signs of fungal growth.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature is ideal for basil, promoting healthy growth and metabolic activity.",
+                "status": "within range",
+                "tip": "Maintain daytime temperatures between 20–30°C; if growing indoors, ensure good airflow and avoid cold drafts at night."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity is above the ideal range for basil. Prolonged high humidity can encourage fungal diseases and reduce transpiration efficiency.",
+                "status": "too high",
+                "tip": "Increase air circulation around the plant. If indoors, use a fan or open a window periodically. Avoid misting."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture is in the optimal range, providing sufficient hydration without risk of root rot.",
+                "status": "within range",
+                "tip": "Continue watering when the top inch of soil begins to dry. Ensure good drainage to prevent waterlogging."
+            }
+        }
+    },
+    {
+        "_id": "6831d4f2f8acd32fceb531ca",
+        "humidity": {
+            "unit": "%",
+            "value": 75.5
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 487
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.8
+        },
+        "timestamp": "2025-05-21T13:00:01.637000",
+        "local_timestamp": "2025-05-21 16:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747832406/egbdi8pwgd5jj7jzh9sk.jpg",
+        "Current Status Summary": "The basil plant is generally healthy but showing early signs of stress likely due to high humidity and potential light or airflow issues. Leaf curling and possible overcrowding should be addressed to prevent future complications.",
+        "Expert Observation": "The basil plant appears mostly healthy, with full green leaves indicating good chlorophyll content. However, there are signs of mild leaf curling and possible wilting on the left side, which may indicate heat stress or overexposure to sunlight. No visible pest damage, spotting, or fungal growth is present. The plant may also be slightly overcrowded, which can reduce airflow and increase disease risk if not managed.",
+        "Health Score": {
+            "score": "8",
+            "summary": "The plant is vibrant and healthy overall, with only minor environmental stresses starting to show."
+        },
+        "Recommendation": "Improve airflow around the plant by pruning or spacing it more generously. Ensure the plant isn't exposed to intense midday sun for prolonged periods. Monitor humidity and consider relocating the plant to a spot with better air circulation if possible. Continue maintaining soil moisture within the optimal range.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature of 22.8°C is ideal for basil growth, supporting healthy metabolic function and leaf development.",
+                "status": "within range",
+                "tip": "Maintain this temperature range by keeping the plant in a partially shaded area during peak afternoon heat if outdoors."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 75.5% exceeds the optimal range and may increase the risk of fungal diseases, especially if airflow is poor.",
+                "status": "too high",
+                "tip": "Improve air circulation by spacing out plants and consider using a fan if indoors; avoid overhead watering."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 39% is in the optimal range, indicating the soil is moist without being soggy.",
+                "status": "within range",
+                "tip": "Continue monitoring moisture levels, and water only when the topsoil begins to feel dry to the touch."
+            }
+        }
+    },
+    {
+        "_id": "6831d54bf8acd32fceb531cc",
+        "humidity": {
+            "unit": "%",
+            "value": 79.8
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.2
+        },
+        "timestamp": "2025-05-22T05:00:01.853000",
+        "local_timestamp": "2025-05-22 08:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747890006/mlptaty8id3kxn19swsh.jpg",
+        "Current Status Summary": "Your basil plant is overall healthy with optimal temperature and soil moisture. The high humidity and slight leaf puckering could be early signs of stress, possibly related to airflow or overcrowding.",
+        "Expert Observation": "The basil plant appears generally healthy with full, green foliage. However, some leaves show minor signs of distortion or puckering, particularly on the left side of the image. There is no significant yellowing, browning, or spotting visible. No clear evidence of pest damage or fungal growth is present. Growth seems slightly crowded, which may limit airflow and light penetration if not addressed.",
+        "Health Score": {
+            "score": "8",
+            "summary": "The plant is in good health with only minor humidity-related concerns and a need for improved spacing."
+        },
+        "Recommendation": "Thin out dense clusters to improve airflow and ensure even light distribution. Reduce ambient humidity by increasing ventilation, especially if indoors. Monitor leaves for any further signs of stress such as yellowing or mildew.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The current temperature of 22.2°C is ideal for basil growth.",
+                "status": "within range",
+                "tip": "Maintain this temperature range for continued healthy development."
+            },
+            "Relative Humidity": {
+                "interpretation": "At 79.8%, the humidity is above the optimal range. Prolonged high humidity can encourage fungal issues and reduce airflow effectiveness.",
+                "status": "too high",
+                "tip": "Increase ventilation or move the plant to a less humid area to bring humidity down to the 40–60% range."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 39% is ideal—moist without being soggy.",
+                "status": "within range",
+                "tip": "Continue to water when the topsoil feels slightly dry to the touch."
+            }
+        }
+    },
+    {
+        "_id": "6831d578f8acd32fceb531cd",
+        "humidity": {
+            "unit": "%",
+            "value": 83.9
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.9
+        },
+        "timestamp": "2025-05-22T09:00:02.428000",
+        "local_timestamp": "2025-05-22 12:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747904407/uf2gdfvzongji6dfjnqv.jpg",
+        "Current Status Summary": "Your basil plant is in good condition, with appropriate soil moisture and temperature. High humidity is the only environmental factor slightly outside the ideal range and could contribute to minor leaf curl or increase fungal risk if unaddressed.",
+        "Expert Observation": "The basil plant appears generally healthy, with lush green leaves and no obvious signs of severe stress or disease. However, there is slight leaf curling and minor distortion in some areas, which may be linked to environmental conditions or mild overcrowding. No visible pest damage, spotting, or browning is observed.",
+        "Health Score": {
+            "score": "8",
+            "summary": "The basil is healthy overall, with only slightly elevated humidity and minor leaf curling preventing a perfect score."
+        },
+        "Recommendation": "Improve air circulation around your basil, particularly if grown indoors or in a crowded space. Prune any overly dense areas to improve airflow. Monitor for signs of mildew or fungal spots over the next few days and reduce watering slightly if humidity remains high.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature of 22.9°C is well within the optimal range for basil growth.",
+                "status": "within range",
+                "tip": "Maintain this stable temperature, ideally between 20–30°C. If growing indoors, ensure it's away from drafts or direct AC flow."
+            },
+            "Relative Humidity": {
+                "interpretation": "The humidity at 83.9% exceeds the ideal range. While basil enjoys moderate humidity, excessively high levels can promote fungal issues.",
+                "status": "too high",
+                "tip": "Increase ventilation around the plant, especially indoors. Consider using a small fan or dehumidifier to lower humidity if persistent."
+            },
+            "Soil Moisture": {
+                "interpretation": "The soil moisture at 39% falls comfortably within the ideal range of 30–60%, suggesting proper watering.",
+                "status": "within range",
+                "tip": "Continue to water when the topsoil begins to dry out, ensuring the soil remains moist but not waterlogged."
+            }
+        }
+    },
+    {
+        "_id": "6831d5a4f8acd32fceb531ce",
+        "humidity": {
+            "unit": "%",
+            "value": 80.4
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 24.2
+        },
+        "timestamp": "2025-05-22T13:00:02.221000",
+        "local_timestamp": "2025-05-22 16:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747918807/icjqyatcaiqfekh57knf.jpg",
+        "Current Status Summary": "The basil plant is generally healthy with good leaf color and moisture. However, high humidity is causing mild stress, possibly contributing to slight wilting or puckering of some leaves.",
+        "Expert Observation": "The basil plant shows mostly healthy green leaves, though there are signs of mild stress. A few leaves appear slightly droopy and somewhat puckered, which may indicate heat or humidity stress. No major pest damage or severe discoloration is visible, though one or two leaves have minor blemishes. The lighting in the image is overexposed in some areas, making it difficult to see all leaf details clearly.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The plant is in good condition overall, but high humidity is causing minor stress signs that should be addressed."
+        },
+        "Recommendation": "Focus on improving air circulation to reduce humidity levels. If the plant is indoors, move it to a well-ventilated space. If outdoors, avoid crowding with other plants. Continue to monitor soil moisture and maintain moderate watering.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The air temperature of 24.2°C is ideal for basil, promoting healthy growth.",
+                "status": "within range",
+                "tip": "Continue to maintain this temperature range. Ensure plants are shaded during peak sunlight hours if outdoors."
+            },
+            "Relative Humidity": {
+                "interpretation": "The humidity at 80.4% is above the optimal range and may contribute to leaf stress or fungal development.",
+                "status": "too high",
+                "tip": "Improve air circulation around the plant. If indoors, consider using a dehumidifier or moving the plant to a less humid area."
+            },
+            "Soil Moisture": {
+                "interpretation": "The soil moisture at 39% is comfortably within the ideal range for basil, indicating proper watering.",
+                "status": "within range",
+                "tip": "Keep monitoring the moisture to maintain it between 30–60%. Avoid overwatering, especially with high humidity."
+            }
+        }
+    },
+    {
+        "_id": "6831d5fdf8acd32fceb531d0",
+        "humidity": {
+            "unit": "%",
+            "value": 83.7
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.9
+        },
+        "timestamp": "2025-05-23T05:00:02.030000",
+        "local_timestamp": "2025-05-23 08:00:02",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747976406/zwwzb6dpol6lktqy9fkq.jpg",
+        "Current Status Summary": "The basil plant is mostly healthy with good coloration and leaf density. However, high humidity and some minor signs of stress suggest early intervention is needed to prevent fungal issues or prolonged wilting. Soil moisture and temperature are currently well balanced.",
+        "Expert Observation": "The basil plant appears generally healthy with lush green foliage. However, there are subtle signs of stress: some leaves are slightly wilted and show minor discoloration or wrinkling. One area shows darkened tips or patches, which could be early signs of fungal stress or overwatering effects. There is also slight overcrowding, which could reduce airflow and increase humidity-related risks.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The plant is in good condition but shows early signs of stress due to high humidity and mild leaf discoloration or damage."
+        },
+        "Recommendation": "Thin out crowded sections to improve airflow, and take steps to reduce humidity—such as relocating the plant, using a fan, or avoiding watering during the evening. Keep monitoring for signs of mold or mildew, and remove any darkened or damaged leaves promptly. Maintain regular, moderate watering without letting soil become soggy.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The air temperature is ideal for basil, promoting optimal growth and metabolic activity.",
+                "status": "within range",
+                "tip": "Maintain this temperature range by avoiding exposure to extreme heat or cold, especially during night cycles."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 83.7% exceeds the optimal range, which can increase the risk of fungal infections and reduce transpiration efficiency.",
+                "status": "too high",
+                "tip": "Improve air circulation around the plant and avoid crowding to help lower humidity. Consider relocating the plant to a slightly drier spot or using a fan briefly each day."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 39% is within the ideal range for basil—moist but not soggy.",
+                "status": "within range",
+                "tip": "Continue monitoring to prevent it from dipping below 30% or rising above 60%. Water when the top inch of soil feels slightly dry."
+            }
+        }
+    },
+    {
+        "_id": "6831d629f8acd32fceb531d1",
+        "humidity": {
+            "unit": "%",
+            "value": 75.5
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 24.4
+        },
+        "timestamp": "2025-05-23T09:00:01.770000",
+        "local_timestamp": "2025-05-23 12:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1747990806/rqdk7fivkwjzlzbhmskd.jpg",
+        "Current Status Summary": "The basil plant is receiving ideal temperature and soil moisture, but elevated humidity is contributing to drooping leaves and potential fungal risk. Some localized leaf damage may be due to past overwatering or disease.",
+        "Expert Observation": "The basil plant shows signs of moderate wilting and slight leaf curling. The leaves are mostly green but appear soft and droopy, indicating possible overhydration or high humidity stress. A few areas show signs of browning or edge damage, but there are no clear signs of pests or fungal spots. One small section on the left appears dark and shriveled, possibly due to localized rot or old damage.",
+        "Health Score": {
+            "score": "7",
+            "summary": "Healthy overall, with slight wilting and humidity-related stress limiting optimal growth."
+        },
+        "Recommendation": "Improve ventilation to counteract high humidity. Prune away any damaged or blackened leaves to prevent spread of disease. Avoid watering unless the topsoil is drying out. Monitor for any progression of rot or fungal issues, especially in thick foliage.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature is ideal for basil, supporting healthy metabolic activity and growth.",
+                "status": "within range",
+                "tip": "Continue maintaining the plant in a spot with temperatures between 20–30°C. Avoid exposure to cold drafts or extreme midday heat."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity above 60% can encourage fungal growth and reduce transpiration, leading to soft, drooping leaves.",
+                "status": "too high",
+                "tip": "Improve air circulation around the plant by spacing it out or using a small fan if indoors. Avoid misting and consider moving the plant to a less humid area."
+            },
+            "Soil Moisture": {
+                "interpretation": "The soil moisture is adequate and in the ideal range for basil, ensuring the roots are hydrated but not waterlogged.",
+                "status": "within range",
+                "tip": "Continue monitoring to keep moisture between 30–60%. Ensure the pot has good drainage to prevent soggy conditions, especially with high humidity."
+            }
+        }
+    },
+    {
+        "_id": "6831d654f8acd32fceb531d2",
+        "humidity": {
+            "unit": "%",
+            "value": 70.4
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 487
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 25.1
+        },
+        "timestamp": "2025-05-23T13:00:01.796000",
+        "local_timestamp": "2025-05-23 16:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1748005207/jd2ljmw9wq94uas6fzzd.jpg",
+        "Current Status Summary": "Your basil plant is generally healthy with good leaf color and adequate soil moisture. However, high humidity is causing mild leaf curling and could lead to fungal issues if not corrected.",
+        "Expert Observation": "The basil plant shows generally healthy leaf coloration with a rich green tone, but there are some signs of stress. A few leaves appear slightly wrinkled or curled, which could be a reaction to excess humidity. Additionally, some leaves exhibit light mottling or discoloration, possibly due to minor nutrient imbalance or beginning fungal activity. There are no visible signs of pest damage or severe wilting at this time.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The plant is mostly healthy with optimal temperature and soil moisture, but high humidity and early signs of stress slightly reduce its condition."
+        },
+        "Recommendation": "Lower the humidity around your plant by increasing ventilation and spacing between plants. If indoors, consider using a small fan. Also, check that the container drains well and that leaves are kept dry to prevent fungal problems. Trim any discolored or curled leaves to prevent the spread of potential disease.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature of 25.1°C is ideal for basil, promoting healthy growth and strong flavor development.",
+                "status": "within range",
+                "tip": "Maintain this temperature range by keeping the plant in a warm, sunny location and protecting it from cold drafts or heat stress."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 70.4% exceeds the optimal range for basil. This increases the risk of fungal diseases and can contribute to leaf discoloration or mild curling.",
+                "status": "too high",
+                "tip": "Improve airflow around the plant with spacing or a fan, and avoid overhead watering to reduce moisture on the leaves."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 39% is appropriate, ensuring the roots are moist without becoming waterlogged.",
+                "status": "within range",
+                "tip": "Continue monitoring soil moisture regularly. Water only when the top inch of soil feels dry to the touch."
+            }
+        }
+    },
+    {
+        "_id": "6831d6adf8acd32fceb531d4",
+        "humidity": {
+            "unit": "%",
+            "value": 80.7
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 23.3
+        },
+        "timestamp": "2025-05-24T05:00:01.955000",
+        "local_timestamp": "2025-05-24 08:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1748062806/cjkg9thn1rbhrhfzyw7h.jpg",
+        "Current Status Summary": "The basil plant is generally healthy with adequate moisture and temperature, but high humidity and some minor leaf damage suggest early stress, possibly due to fungal risk or poor ventilation.",
+        "Expert Observation": "The basil plant exhibits generally healthy green foliage, but there are some issues. A few leaves show darkened and dried areas, particularly at the tips and edges, which could indicate localized leaf burn or fungal damage. There’s also a slightly crowded appearance that could limit airflow, increasing susceptibility to disease.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The basil is mostly healthy but showing minor leaf damage and experiencing high humidity, which could lead to future problems if unaddressed."
+        },
+        "Recommendation": "Thin out the basil slightly to improve air circulation, and monitor for signs of mold or mildew. Remove any blackened or heavily damaged leaves. If indoors, consider placing the plant in a spot with better airflow or using a small fan.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature at 23.3°C is ideal for basil growth, supporting strong photosynthesis and development.",
+                "status": "within range",
+                "tip": "Maintain this temperature range by keeping the plant in a warm, sheltered spot with good sunlight."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 80.7% exceeds basil’s optimal range, which can promote fungal growth and hinder transpiration.",
+                "status": "too high",
+                "tip": "Improve airflow around the plant and avoid overcrowding. Consider relocating to a less humid area or using a fan to reduce moisture buildup."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 39% is in the ideal range, providing the basil with enough hydration without overwatering.",
+                "status": "within range",
+                "tip": "Continue checking soil moisture regularly and water only when it drops near 30%."
+            }
+        }
+    },
+    {
+        "_id": "6831df2975723040eafb78bf",
+        "humidity": {
+            "unit": "%",
+            "value": 80.9
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 24.9
+        },
+        "timestamp": "2025-05-24T15:00:01.884000",
+        "local_timestamp": "2025-05-24 18:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1748098806/djawu2u7qa6fndvrjphm.jpg",
+        "Current Status Summary": "The basil plant is generally healthy but is showing signs of leaf stress, likely linked to excessive humidity. Temperature and soil moisture are in the ideal range, but fungal or bacterial leaf issues could emerge if high humidity persists.",
+        "Expert Observation": "The basil plant appears mostly healthy with rich green leaves, but there are localized signs of leaf damage in the center, including darkened and possibly necrotic patches. This may be due to excessive humidity promoting fungal or bacterial leaf spot development. No major signs of pest activity or wilting are present. Overall structure and leaf turgor are good.",
+        "Health Score": {
+            "score": "7",
+            "summary": "The plant is in good condition with optimal temperature and soil moisture, but high humidity and emerging leaf damage slightly reduce its overall health rating."
+        },
+        "Recommendation": "Improve ventilation and reduce ambient humidity around the plant. Thin out overly dense foliage to promote airflow and prevent moisture buildup on leaves. Remove any leaves with dark or mushy spots to prevent spread of disease.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The air temperature at 24.4°C is ideal for basil growth and supports healthy metabolism and photosynthesis.",
+                "status": "within range",
+                "tip": "Maintain this temperature range by ensuring the plant stays in a spot with steady warmth and indirect light."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 82.4% exceeds the optimal range and can encourage fungal diseases, particularly in densely packed foliage.",
+                "status": "too high",
+                "tip": "Improve air circulation around the plant and consider using a dehumidifier if indoors. Avoid misting the plant and space out the leaves if crowded."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 39% is comfortably moist, supporting healthy root function without promoting rot.",
+                "status": "within range",
+                "tip": "Continue monitoring to avoid overwatering, especially in high humidity conditions where evaporation slows."
+            }
+        }
+    },
+    {
+        "_id": "683287eac8cfc051e2f859d3",
+        "humidity": {
+            "unit": "%",
+            "value": 83.9
+        },
+        "soil": {
+            "percent": 39,
+            "raw": 486
+        },
+        "temperature": {
+            "unit": "C",
+            "value": 22.2
+        },
+        "timestamp": "2025-05-25T03:00:01.798000",
+        "local_timestamp": "2025-05-25 06:00:01",
+        "image_url": "https://res.cloudinary.com/dqs2zm2ms/image/upload/v1748142006/wj6dvzpuau8wtwcb8wof.jpg",
+        "Current Status Summary": "The basil plant is generally healthy, with minor signs of leaf damage possibly due to excess humidity or early fungal stress. Environmental conditions are mostly favorable, but the high humidity poses a risk if not addressed.",
+        "Expert Observation": "The basil plant appears mostly healthy with vibrant green leaves, but there are early signs of localized leaf damage. A small dark patch near the center of the image may indicate mild fungal or physical damage. Leaf edges are slightly curled on some leaves, possibly indicating environmental stress or early pest activity. No major pest presence or severe yellowing is evident.",
+        "Health Score": {
+            "score": "8",
+            "summary": "The plant is in good condition with appropriate temperature and moisture, but high humidity and a small damaged area slightly reduce its health rating."
+        },
+        "Recommendation": "Improve air circulation around the basil to counteract the high humidity and reduce the risk of fungal diseases. Trim any affected leaves to prevent spread and monitor for recurring spots or discoloration. Ensure plants are not overcrowded to allow better airflow and light penetration.",
+        "Sensor Analysis": {
+            "Air Temperature": {
+                "interpretation": "The temperature of 22.3°C is well within the ideal range for basil growth.",
+                "status": "within range",
+                "tip": "Maintain this stable temperature by ensuring the plant is not exposed to cold drafts or excessive midday heat."
+            },
+            "Relative Humidity": {
+                "interpretation": "Humidity at 84.4% is significantly above basil's ideal range and can promote fungal issues.",
+                "status": "too high",
+                "tip": "Improve airflow around the plant. Avoid overcrowding and consider using a small fan or relocating to a less humid area."
+            },
+            "Soil Moisture": {
+                "interpretation": "Soil moisture at 39% is comfortably within the optimal range for basil.",
+                "status": "within range",
+                "tip": "Continue monitoring soil to keep it consistently moist but not soggy. Avoid watering unless the top layer feels dry."
+            }
+        }
+    }
+]
